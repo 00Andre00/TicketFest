@@ -27,13 +27,13 @@ const userStore = useUserStore();
                         System Fest
                     </h1>
 
-                    <div class="flex flex-wrap justify-center gap-4 text-sm sm:text-base md:text-lg animate-fade-in-up">
+                    <div class="flex flex-wrap items-center justify-center gap-4 text-sm sm:text-base md:text-lg animate-fade-in-up">
                         <span
-                            class="w-full sm:w-[150px] md:w-[200px] text-center bg-black/80 px-4 sm:px-6 py-3 rounded-3xl backdrop-blur-sm border border-red-500/40 hover:shadow-red-500/20 hover:shadow-xl">
+                            class="w-full sm:w-[220px] md:w-[220px] text-center bg-black/80 px-4 sm:px-6 py-3 rounded-3xl backdrop-blur-sm border border-red-500/40 hover:shadow-red-500/20 hover:shadow-xl">
                             Noviembre 29
                         </span>
                         <span
-                            class="w-full sm:w-[150px] md:w-[200px] text-center bg-black/80 px-4 sm:px-6 py-3 rounded-3xl backdrop-blur-sm border border-red-500/40 hover:shadow-red-500/20 hover:shadow-xl">
+                            class="w-full sm:w-[220px] md:w-[220px] text-center bg-black/80 px-4 sm:px-6 py-3 rounded-3xl backdrop-blur-sm border border-red-500/40 hover:shadow-red-500/20 hover:shadow-xl">
                             Mistika casa club
                         </span>
                     </div>
